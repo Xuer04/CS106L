@@ -1,2 +1,2 @@
 # CS106L
-This repo contains the course material of CS106L.
+This repo contains all course materials of CS106L.
